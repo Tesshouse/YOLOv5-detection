@@ -15,3 +15,8 @@ This project uses YOLOv5 to perform object detection on both public datasets and
 
 ## 📓 Code Notebook
 You can check the full detection notebook [here](./YOLO_model.ipynb)
+
+## 💡 What I Learned
+- Applied YOLOv5 to a non-standard image type (analog film)
+- Learned how to set up detection pipeline with Google Colab
+- Understood basic metrics (Precision, Recall, mAP) for evaluating models

@@ -6,3 +6,7 @@ This project uses YOLOv5 to perform object detection on both public datasets and
 
 ## 📸 Detection Result Example
 ![result](이미지분석.jpeg)
+
+## 📓 Code Notebook
+
+You can check the full detection notebook [here](./YOLO_model.ipynb)

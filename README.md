@@ -12,7 +12,7 @@ This project uses **YOLOv5** to perform object detection on both public datasets
 
 ##** Detection Result Example 
 ![result](이미지분석.jpeg)
-This photo was taken while studying in Germany.
+{Photo was taken while studying in Germany..)
 
 ## Code Notebook
 [here](./YOLO_model.ipynb)
